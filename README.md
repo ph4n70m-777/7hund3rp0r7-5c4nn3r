@@ -1,4 +1,4 @@
-#7hund3rp0r7 5c4nn3r
+# 7hund3rp0r7 5c4nn3r
 
 A fast,portable and multithreaded port scanner built in python.
 
