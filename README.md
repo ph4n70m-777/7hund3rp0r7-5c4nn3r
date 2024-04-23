@@ -1,15 +1,9 @@
-# <div align="center">|| 7hund3rp0r7 5c4nn3r ||</div> 
-  
+#7hund3rp0r7 5c4nn3r
 
 A fast,portable and multithreaded port scanner built in python.
 
-<br>
-<br>
-
-
 ## What is a port scanner ?
 It is a program that checks a host or a server for open ports.
-
 
 ## Features:-
 - ✔️ Notifies you when a start starts
@@ -17,7 +11,7 @@ It is a program that checks a host or a server for open ports.
 - ✔️ Scans ports from 1-1000 (customizable)
 
 ## Updates Planned:-
-- 🕗 Export scan results to a txt file.
+- Export scan results to a txt file. - one day....
 
 > __Warning__
 > 
