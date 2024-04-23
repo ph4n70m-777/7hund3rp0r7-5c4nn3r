@@ -6,9 +6,9 @@ A fast,portable and multithreaded port scanner built in python.
 It is a program that checks a host or a server for open ports.
 
 ## Features:-
-- ✔️ Notifies you when a start starts
-- ✔️ Multithreaded (Faster scans)
-- ✔️ Scans ports from 1-1000 (customizable)
+- Notifies you when a start starts
+- Multithreaded (Faster scans)
+- Scans ports from 1-1000 (customizable)
 
 ## Updates Planned:-
 - Export scan results to a txt file. - one day....
