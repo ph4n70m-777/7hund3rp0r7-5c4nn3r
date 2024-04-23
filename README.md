@@ -1,23 +1,10 @@
 # <div align="center">|| 7hund3rp0r7 5c4nn3r ||</div> 
   
- <p align="center">
-  <img 
-    width="500"
-    height="350"
-    src="https://thumbs.gfycat.com/BlushingJubilantImperialeagle-size_restricted.gif"
-  >
-</p>
 
-<div align="center">
-  A fast,portable and multithreaded port scanner built in python.
+A fast,portable and multithreaded port scanner built in python.
 
 <br>
 <br>
-
-![Logo](https://img.shields.io/github/commit-activity/w/Coding-Storm/Multithreaded-Port-Scanner?color=brightgreen&label=commits&logo=python&logoColor=gold&style=for-the-badge) &nbsp; &nbsp; &nbsp; ![Maintained - Yes](https://img.shields.io/badge/Maintained-Yes-gold?style=for-the-badge&logo=github&logoColor=gold) &nbsp; &nbsp; &nbsp;   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=for-the-badge&logo)](https://opensource.org/licenses/Apache-2.0)
-</div>
-
- </div>
 
 
 ## What is a port scanner ?
